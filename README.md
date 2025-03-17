@@ -52,3 +52,12 @@ TRAINING THE MODEL-To train the model we need to initalize the Neural network wi
 MODEL EVALUATION -To evaluate the model just pass the test data to fit() function it will display the validation loss, validation accuracy, test loss and test accuracy
 
 FeedForwardNeuralNetwork/README.md at main · SIRAJMOMIN/FeedForwardNeuralNetwork
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WANDB Report Link:
+https://wandb.ai/cs24m023-indian-institute-of-technology-madras/Deep_Learning_Assignment_1/reports/-DA6401-Assignment-1--VmlldzoxMTgxMDMzMQ
+
+GITHUB Repo Link:
+https://github.com/lokeshtalamala1/Deep_Learning_Assignment_1/blob/main/DL.ipynb
+
+
