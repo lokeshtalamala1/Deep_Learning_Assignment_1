@@ -55,7 +55,7 @@ FeedForwardNeuralNetwork/README.md at main · SIRAJMOMIN/FeedForwardNeuralNetwor
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 WANDB Report Link:
-https://wandb.ai/cs24m023-indian-institute-of-technology-madras/Deep_Learning_Assignment_1/reports/-DA6401-Assignment-1--VmlldzoxMTgxMDMzMQ
+https://api.wandb.ai/links/cs24m023-indian-institute-of-technology-madras/112yk0jn
 
 GITHUB Repo Link:
 https://github.com/lokeshtalamala1/Deep_Learning_Assignment_1/blob/main/DL.ipynb
